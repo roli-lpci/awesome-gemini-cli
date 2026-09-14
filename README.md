@@ -168,6 +168,8 @@ Custom commands and extensions that add new capabilities to Gemini CLI.
 
 
 - [Cohesivity](https://github.com/cohesivity-org/cohesivity-plugin/tree/main/packages/gemini) - cohesivity.ai offers free agent native backend services. Anonymous account (no-signup) to get started through MCP or API. Hosting, postgres, email, storage, containers, LLMs, voice and third-party APIs. Includes free tiers and 5 USD/mo in AI and Search credits. Top-ups through x402.
+- [hermeneutic](https://github.com/hermes-labs-ai/hermeneutic) - AI drift detector and Gemini CLI extension: deterministic epistemic checks on a final response, with one bounded automatic repair attempt.
+- [little-canary](https://github.com/hermes-labs-ai/little-canary) - Prompt-injection defense and Gemini CLI extension: blocks an agent run when a local Little Canary server flags the prompt unsafe.
 
 ## Fun
 
